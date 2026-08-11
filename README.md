@@ -31,3 +31,5 @@
 
 ```bash
 python helloworldrjm.py
+
+- 프로젝트 목적 설명을 보완했습니다.
